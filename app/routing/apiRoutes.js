@@ -6,7 +6,7 @@ var friendsArray =  require('../data/friends');
 
 module.exports = function(app){
 
-    //need get rout and need to get json response 
+    //need get route and need to get json response 
     
     app.get('/api/friends', function (request, response){
         return response.json(friendsArray);
