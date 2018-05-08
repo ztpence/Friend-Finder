@@ -1,4 +1,4 @@
-module.exports = [
+var dataArray = [
 
     {
         name: 'Kurt',
@@ -11,3 +11,5 @@ module.exports = [
         scores: [3,4,2,4,2,4,3,1,2,4]
     }
 ];
+
+module.exports = dataArray;
