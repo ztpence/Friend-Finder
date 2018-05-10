@@ -15,10 +15,11 @@ module.exports = function(app){
     //need to post friends data from array with request
 
     app.post('/api/friends', function(request, response){
-        friendsArray.push(request.body);
-    });
 
-
+            friendsArray.push(request.body);
+        });
+        
+    
 };
 
 
