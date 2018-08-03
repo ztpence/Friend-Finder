@@ -1,6 +1,6 @@
 # Friend-Finder
 
-To Use Click the Link <a href="https://ztpence.github.io/Friend-Finder/">https://ztpence.github.io/Friend-Finder/
+Project source can be downloaded from <a href="https://github.com/ztpence/Friend-Finder">
 
 Author
 Zane Pence
