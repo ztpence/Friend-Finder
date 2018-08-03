@@ -1,6 +1,6 @@
 # Friend-Finder
 
-Project source can be downloaded from <a href="https://github.com/ztpence/Friend-Finder">https://github.com/ztpence/Friend-Finder
+Please visit my app at <a href="https://friend-finder-ztpence.herokuapp.com/">https://friend-finder-ztpence.herokuapp.com/
 
 Author
 Zane Pence
