@@ -2,7 +2,7 @@
 
 Please visit my app at <a href="https://friend-finder-ztpence.herokuapp.com/">https://friend-finder-ztpence.herokuapp.com/
 
-Author
+Author: 
 Zane Pence
 
 Overview
